@@ -180,7 +180,6 @@ PRODUCT_PACKAGES += \
     libSNPE \
     libXMFD_AgeGender \
     lib_denoiser3 \
-    libacdbloader \
     libarcsoft_beautyshot \
     libarcsoft_dualcam_image_optical_zoom \
     libarcsoft_dualcam_optical_zoom_control \
