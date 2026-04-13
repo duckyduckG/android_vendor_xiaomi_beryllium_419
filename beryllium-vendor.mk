@@ -254,7 +254,8 @@ PRODUCT_PACKAGES += \
     vendor.qti.gnss@3.0-service \
     vendor.qti.gnss@3.0 \
     vendor.qti.hardware.cacert@1.0 \
-    dirac_resource \
+    vendor_lib_rfsa_adsp_dirac_resource_dar \
+    CACertService \
     android.hardware.gnss@2.0-service-qti.xml \
     vendor.qti.gnss@3.0-service.xml \
     android.hardware.gnss@2.0-service-qti \
